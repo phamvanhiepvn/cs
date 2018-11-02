@@ -1,0 +1,1 @@
+start hlds.exe -game cstrike -noipx

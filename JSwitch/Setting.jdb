@@ -1,0 +1,34 @@
+;2 button top
+[type]2[x]41[y]64[sound]0[tooltip]1[desc]Click to switch mode
+
+;Only list
+;[type]2[x]41[y]15[sound]0[tooltip]1[desc]Click to switch mode
+
+;Mode
+[type]1[name]Normal[plugin]normal[cmenu]1[file]nm
+[type]1[name]Team DeathMatch[plugin]csdm[cmenu]1[file]dm
+
+;Button
+;[type]0[name]Protocol 47[x]41[y]12[w]118[h]41[sound]1[tooltip]1[desc]Click to switch CS to Protocol ;47[action]extract:JSwitch\protocol47.zip
+;[type]0[name]Protocol 48[x]224[y]12[w]118[h]41[sound]1[tooltip]1[desc]Click to switch CS to Protocol ;48[action]extract:JSwitch\protocol48.zip
+;Start Game
+;[type]0[name]Start[x]164[y]33[w]55[h]20[sound]1[tooltip]1[desc]Click to start CS ;Dominating[action]start:file:hl.exe|-:steam|game:cstrike|appid:10|output:gl|color:32
+
+;Action
+
+;start:<arg1>:<value1>|<arg2>:<value2>|<arg3>:<value3>
+;Example:     start:file:hl.exe|-:steam|game:cstrike|appid:10|output:gl|color:32
+;   Argument   |   Value
+;     file     |   <name of file to start - no extension> hl
+;     game     |   <folder of mod of HL> cstrike
+;    appid     |   <Appid of CS> 10
+;    output    |   <Output Renderer> gl ; d3d
+;     size     |   <Size of CS> WidthxHeight (1024x768)
+;    window    |   <Window mode> 0 ; 1
+;      -       |   <Param start with "-">
+;     map      |   <Map to start> de_dust2
+;    color     |   <Color Setting> 16 ; 32 (bit)
+;    connect   |   <IP to connect - replace : to ;> 192.168.1.1;27015
+
+;extract:cstrike\protocol47.zip
+;extract a file, extract:<link file>

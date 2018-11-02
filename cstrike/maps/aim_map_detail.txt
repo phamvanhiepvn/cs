@@ -1,0 +1,46 @@
+// Detail texture map file for de_dust level
+// Redone for Counter-Strike
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+-0csSandWall 		detail/dt_stone1		10.0		10.0
+-0Sand			detail/dt_stone1		10.0		10.0
+-0SandRock		detail/dt_stone1		10.0		10.0
+-1csSandWall 		detail/dt_stone1		10.0		10.0
+-1Sand			detail/dt_stone1		10.0		10.0
+-1SandRock		detail/dt_stone1		10.0		10.0
+-2Sand			detail/dt_stone1		10.0		10.0
+-2SandRock		detail/dt_stone1		10.0		10.0
+-3Sand			detail/dt_stone1		10.0		10.0
+csSandWall2		detail/dt_stone1		10.0		10.0
+MltryCrteSd		detail/dt_metal1		10.0		10.0
+MltryCrteSd2		detail/dt_metal1		10.0		10.0
+MltryCrteTp		detail/dt_metal1		10.0		10.0
+SandCCrete		detail/dt_stone1		10.0		10.0
+SandCrtLrgSd		detail/dt_wood 			6		6
+SandCrtLrgTp		detail/dt_wood 			6		6
+SandCrtSmSd		detail/dt_wood 			6		6
+SandCrtSmTp		detail/dt_wood 			6		6
+SandRoad		detail/dt_ground2		10.0		10.0
+SandRoadTgt		detail/dt_ground2		10.0		10.0
+SandRoadTgtA		detail/dt_ground2		10.0		10.0
+SandRoadTgtB		detail/dt_ground2		10.0		10.0
+SandTrim		detail/dt_stone1		10.0		10.0
+SandWllDoor		detail/dt_wood 			10.0		10.0
+SandWllDoor2		detail/dt_wood 			10.0		10.0
+SandWllWndw		detail/dt_stone1		6		6
+SandWllWndw2		detail/dt_stone1		6		6
+SandWllWndw3		detail/dt_stone1		6		6
+
+-0SandRock2		detail/dt_stone1		10.0		10.0
+csSandWallBTA		detail/dt_stone1		10		10
+csSandWallBTB		detail/dt_stone1		10		10
+csSandWallGH1a		detail/dt_stone1		10		10
+csSandWallGH1b		detail/dt_stone1		10		10
+SndCCrete		detail/dt_stone1		10.0		10.0
+SandCCrete		detail/dt_stone1		10.0		10.0
+SandCCrete2		detail/dt_stone1		10.0		10.0	
+csSandWallDJ1		detail/dt_stone1		10.0		10.0
+SandWllDoorDJ1		detail/dt_wood 			10.0		10.0
+SandWllDoorDJ2		detail/dt_wood 			10.0		10.0
+SandWllDoorBTA		detail/dt_wood 			10.0		10.0	
+SandWllDoorBTb		detail/dt_wood 			10.0		10.0

@@ -1,0 +1,14 @@
+// overview description file for cs_mansion.bsp
+
+global 
+{
+	ZOOM	3.52
+	ORIGIN	252 	     -344	   252
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_mansion.bmp"
+	HEIGHT	0
+}

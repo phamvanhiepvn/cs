@@ -1,0 +1,14 @@
+// overview description file for de_forge.bsp
+
+global 
+{
+	ZOOM	1.17
+	ORIGIN	200.00      544.00      304.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_forge.bmp"
+	HEIGHT	0
+}

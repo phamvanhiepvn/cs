@@ -1,0 +1,1 @@
+start hlds.exe -game cstrike -console -noipx +maxplayers 24 +map de_dust2
